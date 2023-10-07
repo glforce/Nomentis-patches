@@ -4,5 +4,11 @@
         "files": [
             "patch-mul.zip"
         ]
+    },
+    {
+        "version": 2,
+        "files": [
+            "patch-map.zip"
+        ]
     }
 ]

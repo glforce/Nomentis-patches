@@ -10,5 +10,11 @@
         "files": [
             "patch-map.zip"
         ]
+    },
+    {
+        "version": 7,
+        "files": [
+            "patch-art.zip"
+        ]
     }
 ]

@@ -1,20 +1,2 @@
 [
-    {
-        "version": 1,
-        "files": [
-            "patch-mul.zip"
-        ]
-    },
-    {
-        "version": 6,
-        "files": [
-            "patch-map.zip"
-        ]
-    },
-    {
-        "version": 7,
-        "files": [
-            "patch-art.zip"
-        ]
-    }
 ]
